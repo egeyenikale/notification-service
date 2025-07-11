@@ -16,3 +16,7 @@ feat: configure persistence or state layer
 
 feat: implement main workflow
 
+## 2025-07-11 - Stage 5
+
+feat: add public interface
+
