@@ -36,3 +36,7 @@ ci: add build and test workflow
 
 feat: add validation rules for microsoft graph provider
 
+## 2025-08-25 - Stage 10
+
+feat: add reporting view for success notifications
+
